@@ -4,5 +4,4 @@ My name is Ryan Lee. My passion is front-end web development, specifically using
 
 My skills thus far are in HTML, CSS, JavaScript, Node.js, SQLite, and introductory knowledge of Python. 
 
-https://www.linkedin.com/in/sassyfatcat/ - automatic!
 [Connect with me on LinkedIn](https://www.linkedin.com/in/sassyfatcat/)
